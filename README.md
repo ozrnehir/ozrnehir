@@ -13,7 +13,7 @@
 - 💻 Passionate about building clean, scalable and user-friendly applications  
 - 🚀 Currently learning Full Stack Development  
 - 🌱 Exploring backend systems, APIs, and modern technologies  
-- 📫 Reach me at: riverozrrr@gmail.com
+- 📫 Reach me at: elifnehirozer6@gmail.com
 
 ---
 
