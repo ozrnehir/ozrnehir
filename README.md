@@ -34,16 +34,16 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-- 🪙 Coin Flip Simulator  
-  Interactive coin flip game with animation, sound effects, and statistics  
+- 📅 Appointment Booking System  
+  React-based appointment booking web app with service categories, date/time selection, appointment management, and localStorage support
 
-- 💳 Banking System (C++)  
-  Object-oriented console banking system with account operations  
+- 🏋️ FitTrack Gym Management App  
+  Role-based gym management system with admin and user dashboards, member/class management, and responsive mobile-style UI
 
-- 🗃️ Student Management System  
-  CRUD-based system using C++ STL and efficient data handling  
+- 🇩🇪 German Coach AI  
+  Full-stack language learning app built with React and Spring Boot, including user authentication and sentence correction features
 
 ---
 
