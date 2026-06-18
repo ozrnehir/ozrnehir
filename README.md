@@ -33,17 +33,16 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-- 📅 Appointment Booking System  
-  React-based appointment booking web app with service categories, date/time selection, appointment management, and localStorage support
+- 📅 Appointment Booking System
+  React-based appointment scheduling application with appointment management and responsive UI
 
-- 🏋️ FitTrack Gym Management App  
-  Role-based gym management system with admin and user dashboards, member/class management, and responsive mobile-style UI
+- 🎮 War Card Game (Java Swing)
+  Desktop card game featuring GUI, game-state persistence, and object-oriented design principles
 
-- 🇩🇪 German Coach AI  
-  Full-stack language learning app built with React and Spring Boot, including user authentication and sentence correction features
+- 🚚 Logistics Management System (Java)
+  Transportation management system with truck allocation, route calculations, and cost optimization
 
 ---
 
